@@ -1,11 +1,11 @@
-<!-- drumpf -->
+<!-- readme.md of drumpf.bauska.org -->
 🧟
 <h6>djt</h6>
 <h6>Brian Bauska (2025)</h6>
 <h2 class="chapter-title">DJ Drumpf</h2>
 <p>45th &amp; 47th President of USA</p>
 
-<h2 class="chapter-title">Donald J Drumpf</h2>
+<h2 class="chapter-title">Donald John Drumpf</h2>
 
 <dl>
 <dt><strong>zɑːm.bi</strong></dt>
